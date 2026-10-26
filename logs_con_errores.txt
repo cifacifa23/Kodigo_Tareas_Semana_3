@@ -1,0 +1,99 @@
+[INFO] 2026-03-15 Normal event line
+[WARNING] Invalid password attempt without date
+[ERROR] 2026-02-30 Database cluster failure on February 30th
+[CRITICAL] 2026-03-15 System overheating
+2026-03-15 [INFO] Inverted format without brackets at start
+[INFO] 99-99-9999 Corrupted date string
+[ERROR] 
+[DEBUG] 2026-03-15 Verbose trace dump
+Linea de texto suelta sin ningun formato de log
+[ERROR] 2026-11-31 Unacceptable day for November
+[DEBUG] 2026-03-15 SQL Query executed: SELECT * FROM users WHERE id = 12
+[DEBUG] 2026-03-15 Request headers: {Host: localhost, Accept: */*}
+[FATAL] 2026-03-15 Kernel panic: unable to mount root filesystem
+[TRACE] 2026-03-15 Entering method AuthenticateUser(string, string)
+[ALERT] 2026-03-15 Intrusion detection sensor triggered on eth1
+[NOTICE] 2026-03-15 System clock synchronized with NTP server
+[PANIC] 2026-03-15 Goroutine thread death due to nil pointer dereference
+[EMERGENCY] 2026-03-15 Primary power grid failure in data center room
+[DEBUG] 2026-03-16 Resolving DNS hostname api.internal.local
+[ERROR] 2026-04-31 File upload failed: April has only 30 days
+[WARNING] 2026-06-31 Backup volume detached: June has only 30 days
+[INFO] 2026-09-31 Scheduled maintenance reminder: September has 30 days
+[ERROR] 2026-02-29 Leap year check failure: 2026 is not a leap year
+[INFO] 2026-13-10 Event triggered with invalid month 13
+[WARNING] 2026-00-15 Event recorded with invalid month 00
+[ERROR] 2026-05-32 Event logged with impossible day 32
+[INFO] 2026-08-00 Zero is not a valid calendar day
+[DEBUG] 2026-03-16 Evaluating boolean rule condition #4: True
+[DEBUG] 2026-03-16 Memory buffer allocated 4096 bytes at 0x7fff382
+[INFO] Session started without date timestamp
+[WARNING] Disk pressure warning omitting date field
+[ERROR] Database deadlock occurred without standard date
+[INFO] 2026/03/15 Slashes instead of dashes in date format
+[ERROR] 15-03-2026 European date format dd-mm-yyyy not accepted
+[WARNING] 2026.03.15 Dotted date format not conforming to standard
+[INFO] 20260315 Compact date missing hyphen delimiters
+[DEBUG] 2026-03-16 Cache lookup miss for key user:1004
+[DEBUG] 2026-03-16 Serializing object JSON payload of size 512b
+[CRITICAL] 2026-03-16 Core service temperature reached 92C
+[FATAL] 2026-03-16 Process terminated with exit signal SIGSEGV
+[TRACE] 2026-03-16 Exiting function ValidateToken() with code 0
+[ALERT] 2026-03-16 DDoS mitigation rule triggered on border gateway
+[VERBOSE] 2026-03-16 Verbose payload payload_dump_hex_002941
+[INFO 2026-03-16 Missing closing bracket in severity tag
+INFO] 2026-03-16 Missing opening bracket in severity tag
+[[INFO]] 2026-03-16 Double brackets around severity tag
+{INFO} 2026-03-16 Curly braces instead of square brackets
+(WARNING) 2026-03-16 Parentheses used instead of square brackets
+[info] 2026-03-16 Lowercase severity tag not matching uppercase rule
+[Warning] 2026-03-16 Titlecase severity tag not matching uppercase rule
+[error] 2026-03-16 Lowercase error severity rejected by regex
+[DEBUG] 2026-03-17 Thread pool worker-02 dispatched task #441
+[DEBUG] 2026-03-17 Closing idle TCP socket descriptor #22
+[ERROR] 2026-02-30 Batch job scheduled on non-existent Feb 30
+[WARNING] 2026-11-31 Expiration date invalid for November
+[INFO] 2026-04-31 Annual license renewal check
+Exception in thread "main" java.lang.NullPointerException
+	at com.system.core.Main.process(Main.java:142)
+	at com.system.core.Main.run(Main.java:88)
+Traceback (most recent call last): File "app.py", line 42, in <module>
+Segmentation fault (core dumped)
+--- START OF SYSTEM CORE DUMP BLOCK ---
+0x00401000 48 83 EC 28 48 8B 05 ...
+--- END OF SYSTEM CORE DUMP BLOCK ---
+[DEBUG] 2026-03-17 Handshake protocol TLSv1.3 cipher suite ECDHE-RSA-AES256
+[DEBUG] 2026-03-17 Byte stream written: 1024 bytes flushed
+[CRITICAL] 2026-03-17 Storage pool degraded: disk 2 detached
+[FATAL] 2026-03-17 Out of swap space: process killed by OOM killer
+[AUDIT] 2026-03-17 Security audit event not belonging to log standard
+[METRIC] 2026-03-17 cpu_usage_percent host=web01 value=88.4
+[PERF] 2026-03-17 Method execution time measured at 450ms
+[DEBUG] 2026-03-18 Redis PING returned PONG latency 0.8ms
+[DEBUG] 2026-03-18 Decrypted configuration parameter db.password
+[ERROR] 2026-02-31 System reboot scheduled on impossible date Feb 31
+[INFO] 2026-06-31 Report generation requested for June 31
+[WARNING] 2026-09-31 Metric aggregation run on September 31
+[INFO] 
+[WARNING] 
+[ERROR] 2026-03-18 
+[INFO]       2026-03-18
+[DEBUG] 2026-03-18 Inbound ping from 127.0.0.1
+[DEBUG] 2026-03-18 Garbage collection cycle completed in 12ms
+[CUSTOM_LEVEL] 2026-03-18 Custom user defined log level
+[WARN] 2026-03-18 Shortened WARN instead of required WARNING
+[ERR] 2026-03-18 Shortened ERR instead of required ERROR
+[INFORMATION] 2026-03-18 Verbose INFORMATION instead of required INFO
+[DEBUG] 2026-03-19 Unsubscribing client from channel chat_general
+[DEBUG] 2026-03-19 Session cookie decrypted with secret key
+[FATAL] 2026-03-19 Primary database node lost quorum
+[CRITICAL] 2026-03-19 Main cooling fan RPM zero
+[SECURITY] 2026-03-19 Multiple failed attempts from IP 203.0.113.195
+[ERROR] 2026-13-45 Invalid month and day combination in timestamp
+[WARNING] 2026-02-29 Rejecting leap day in non-leap year 2026
+[INFO] 2026-11-31 Fiscal closing transaction for November 31
+2026-03-19 14:32:00 [INFO] Date at beginning with timestamp format
+Standard output console text without brackets
+*** CRITICAL SYSTEM NOTIFICATION ***
+[DEBUG] 2026-03-19 Finished iteration 1000 of batch process
+[ERROR] 2026-04-31 Automated cron backup executed on April 31
